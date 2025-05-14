@@ -18,7 +18,7 @@
 
 ## 🔗 Quick Links
 
-**Public Instance:** [https://aiocatalogs.jqrw92fchz.workers.dev/configure](https://aiocatalogs.jqrw92fchz.workers.dev/configure) or [https://aio.pantelx.com/configure](https://aio.pantelx.com/configure)
+**Public Instance:** [https://aiocatalogs.jqrw92fchz.workers.dev/configure](https://aiocatalogs.jqrw92fchz.workers.dev/configure) or [https://aaio.pantelx.com/configure](https://aio.pantelx.com/configure)
 
 **Discord Server:** [Join our Discord for community discussions and support](https://discord.gg/Ma4SnagqwE)
 
